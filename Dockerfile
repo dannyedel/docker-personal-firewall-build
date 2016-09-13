@@ -8,3 +8,4 @@ RUN apt-get -yq install \
 	build-essential \
 	cmake \
 	libboost-all-dev
+RUN apt-get -yq install ccache
